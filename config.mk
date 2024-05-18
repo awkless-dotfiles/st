@@ -1,5 +1,5 @@
 # st version
-VERSION = 0.9.2-patch.1
+VERSION = 0.9.2-patch.2
 
 # Customize below to fit your system
 
